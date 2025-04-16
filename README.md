@@ -4,7 +4,6 @@ I'm an aspiring backend developer currently diving deep into C# and .NET technol
 
 🎓 I'm currently a 3rd-year student at **PDP University**, majoring in **Software Engineering**. Studying and applying what I learn through real projects helps me grow both academically and professionally.
 
-
 ---
 
 ### 💻 Technologies I work with:
