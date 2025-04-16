@@ -1,6 +1,11 @@
 ### 👋 Hi, I'm Faxriddinov Og'abek!
 
+### 👋 Hi, I'm Faxriddinov Og'abek!
+
 I'm an aspiring backend developer currently diving deep into C# and .NET technologies. I love building all kinds of projects – from basic apps to more advanced systems. I'm always curious and motivated to explore new tech and improve my skills every day.
+
+🎓 I'm currently a 3rd-year student at **PDP University**, majoring in **Software Engineering**. Studying and applying what I learn through real projects helps me grow both academically and professionally.
+
 
 ---
 
