@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Faxriddinov Og'abek!
 
-I'm an aspiring backend developer currently diving deep into C# and .NET technologies. I love building all kinds of projects – from basic apps to more advanced systems. I'm always curious and motivated to explore new tech and improve my skills every day.
+I'm an aspiring backend developer currently diving deep into C# and .NET technologies. I love building all kinds of projects – from basic apps to more advanced systems. I'm always curious and motivated to explore new tech and improve my skills every day..
 
 ---
 
